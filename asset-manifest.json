@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/job-scraper/static/css/main.b100e6da.chunk.css",
+    "main.js": "/job-scraper/static/js/main.bc9b152f.chunk.js",
+    "main.js.map": "/job-scraper/static/js/main.bc9b152f.chunk.js.map",
+    "runtime-main.js": "/job-scraper/static/js/runtime-main.98d613b1.js",
+    "runtime-main.js.map": "/job-scraper/static/js/runtime-main.98d613b1.js.map",
+    "static/js/2.cae35a36.chunk.js": "/job-scraper/static/js/2.cae35a36.chunk.js",
+    "static/js/2.cae35a36.chunk.js.map": "/job-scraper/static/js/2.cae35a36.chunk.js.map",
+    "index.html": "/job-scraper/index.html",
+    "precache-manifest.c6a6dff3deb84c21bb126133f7e8cfc3.js": "/job-scraper/precache-manifest.c6a6dff3deb84c21bb126133f7e8cfc3.js",
+    "service-worker.js": "/job-scraper/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/job-scraper/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/job-scraper/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98d613b1.js",
+    "static/js/2.cae35a36.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.bc9b152f.chunk.js"
+  ]
+}
